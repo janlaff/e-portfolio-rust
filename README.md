@@ -16,7 +16,16 @@ Open this folder in command prompt.
 $ cd guessing_game
 ```
 
-Now edit `lib/main.rs` and paste in the provided code from `main.rs`
+Now open `lib/main.rs` in VS Code.
+
+Create a new main function:
+```
+fn main() {
+
+}
+```
+
+TODO
 
 This still isnt able to run, since theres an additional dependency that has to be installed.
 
